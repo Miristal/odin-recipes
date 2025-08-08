@@ -1,0 +1,1 @@
+THis is the first project from The Odin Project that is targeted at solidifying my undrestanding and skills with HTML.
